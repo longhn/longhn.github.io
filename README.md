@@ -1,4 +1,1 @@
-longhn.github.io
-================
-
-Long's Content on GitHub
+[Long's Content on GitHub](http://longhn.github.io/)
